@@ -1,0 +1,6 @@
+-r base.txt
+# Development tools
+django-debug-toolbar>=3.2,<4.0
+pytest-django>=4.5.2,<5.0
+pytest>=6.2,<7.0
+coverage>=5.5,<6.0

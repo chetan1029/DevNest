@@ -1,0 +1,6 @@
+# Core Django and DRF dependencies
+Django>=4.2,<5.0
+djangorestframework>=3.15,<4.0
+markdown
+django-filter
+psycopg2-binary
